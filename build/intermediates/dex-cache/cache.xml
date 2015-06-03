@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\pre-dexed\debug\classes-54c42bf2bb196ad4c2e0b2daf0825b6dd955fc1f.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\pre-dexed\debug\classes-bf9c30a07f52fb78213ec3cbdd25aaeb587dff53.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-6d1d8ea3cf555860dd46c77aee07b3d454d1cec1.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-3139f9999cfc7262a4f264cf2360d8b71765dbc1.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\pre-dexed\debug\classes-af46f188e565098f7ee9f078bbbff120e3dffa00.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\client\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-698f9e7179e3fde94c6a0d0998c2e81a6bdd81b7.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Android\AndroidStudioProjects\InfotecsTestTask\service\build\intermediates\pre-dexed\debug\classes-e1970d1ecc99373ebaa7eeb40f6456467758c5d4.jar" />
+    </item>
+
+</items>
